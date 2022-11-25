@@ -1,4 +1,4 @@
-# Titorial - Regular Expresion (Regex)
+# Tutorial - Regular Expresions (Regex)
 
 Regular Expression or (Regex) is one of the most powerful, flexible, and efficient text processing approaches. Regex has its own terminologies, conditions, and syntax; it is, in a sense, a mini programming language. Regex can be used to add, remove, isolate, and manipulate all kinds of text and data. It could be used as a simple text editor command, e.g., search and replace, or as it’s own powerful text-processing language. Because of that, Regex has so many applications in technology today, such as: Extract Useful Information With Web Crawlers, Data Scraping and Web Scraping, Data Wrangling, and machine learning — namely, natural language process and speech recognition.
 
