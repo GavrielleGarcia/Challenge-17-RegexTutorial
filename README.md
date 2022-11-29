@@ -124,6 +124,11 @@ The syntax is:
 Positive lookbehind: (?<=Y)X, matches X, but only if there’s Y before it.
 Negative lookbehind: (?<!Y)X, matches X, but only if there’s no Y before it.
 For example, let’s change the price to US dollars. The dollar sign is usually before the number, so to look for $30 we’ll use (?<=\$)\d+ – an amount preceded by $
+
+## GitHub Gist Link:
+
+https://gist.github.com/GavrielleGarcia/4d180fb0bb561ca02f15f632fd520968
+
 ## Questions
   You can see more of my work on [gavriellegarcia](https://github.com/gavriellegarcia).
 
